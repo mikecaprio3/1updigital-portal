@@ -1,0 +1,6 @@
+{
+  "name": "1UpSites Portal — Client & Project Management Platform",
+  "description": "Boutique client and project management portal for website design projects, revisions, files, agreements, and billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
